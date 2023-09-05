@@ -60,7 +60,7 @@ Attacks
 **Possible Actions**:-  if rogue employee; contact manager, perform full forensics If external threat; Isolate the machine, disconnect from network
 
 ## 7.[Denial of Service(DOS / DDoS)](https://www.investopedia.com/terms/d/denial-service-attack-dos.asp)
-**What it is******:-  When an attacker is able to cause interference in a system by exploiting DoS vulnerabilities or by generating a high volume of traffic
+**What it is**:-  When an attacker is able to cause interference in a system by exploiting DoS vulnerabilities or by generating a high volume of traffic
 
 **Threat Indicators**:-  Abnormal high networks in public-facing servers;
 
