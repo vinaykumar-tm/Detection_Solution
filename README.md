@@ -41,7 +41,7 @@ Attacks
 
 **Possible Actions**:-  If confirmed; Isolate the machine; Start formal forensics process; Start escalations/communication plan
 
-## 5.[Compromised Accounts](https://en.wikipedia.org/wiki/Wikipedia:Compromised_accounts)
+## 5. [Compromised Accounts](https://en.wikipedia.org/wiki/Wikipedia:Compromised_accounts)
 **What it is**:-  When an attacker gets access to one account (via social engineering or other methods)
 
 **Threat Indicators**:-  Off-hours account logins; Account group changes; Abnormal high network traffic;
@@ -50,7 +50,7 @@ Attacks
 
 **Possible Actions**:-  If confirmed: Disable account; Password changes; Forensic investigations
 
-## 6.[Data Exfiltration](https://en.wikipedia.org/wiki/Data_exfiltration)
+## 6. [Data Exfiltration](https://en.wikipedia.org/wiki/Data_exfiltration)
 **What it is**:-   when an attacker(or rogue employee) exfiltrate data to external sources
 
 **Threat Indicators**:-  Abnormal high network traffic; Connection to cloud-storage solutions(Dropbox, Google Cloud, etc); Unusual USB sticks;
@@ -59,7 +59,7 @@ Attacks
 
 **Possible Actions**:-  if rogue employee; contact manager, perform full forensics If external threat; Isolate the machine, disconnect from network
 
-## 7.[Denial of Service(DOS / DDoS)](https://www.investopedia.com/terms/d/denial-service-attack-dos.asp)
+## 7. [Denial of Service(DOS / DDoS)](https://www.investopedia.com/terms/d/denial-service-attack-dos.asp)
 **What it is**:-  When an attacker is able to cause interference in a system by exploiting DoS vulnerabilities or by generating a high volume of traffic
 
 **Threat Indicators**:-  Abnormal high networks in public-facing servers;
